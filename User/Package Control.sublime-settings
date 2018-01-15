@@ -1,0 +1,43 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"AngularJS",
+		"AngularJS (CoffeeScript)",
+		"Autoprefixer",
+		"Babel",
+		"Better CoffeeScript",
+		"BracketHighlighter",
+		"CoffeeAngular Syntax",
+		"Color Highlighter",
+		"CSS Format",
+		"CSScomb",
+		"CSV",
+		"FileOpTabContextMenu",
+		"Flexbox Snippets",
+		"HTML-CSS-JS Prettify",
+		"HTML5",
+		"HTMLBeautify",
+		"Jinja2",
+		"JSX",
+		"MarkdownLivePreview",
+		"Material Theme",
+		"Minify",
+		"Package Control",
+		"React Templates",
+		"SCSS",
+		"SideBarEnhancements",
+		"Simple JSX",
+		"Stylus",
+		"SublimeLinter",
+		"SublimeLinter-coffeelint",
+		"SublimeLinter-csslint",
+		"SublimeLinter-html-tidy",
+		"Tag",
+		"TrailingSpaces"
+	]
+}
