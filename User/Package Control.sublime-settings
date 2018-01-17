@@ -37,7 +37,6 @@
 		"SublimeLinter-coffeelint",
 		"SublimeLinter-csslint",
 		"SublimeLinter-html-tidy",
-		"Tag",
 		"TrailingSpaces"
 	]
 }
